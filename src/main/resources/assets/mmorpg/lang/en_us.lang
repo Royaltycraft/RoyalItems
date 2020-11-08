@@ -37,11 +37,11 @@ mmorpg.tooltip.socketable_item=This Gem can be inserted into a Socket slot
 
 # RARITY ITEM NAMES
 item.mmorpg:axe/axe0.name=§7Hache Commun
-item.mmorpg:axe/axe1.name=§aHache Inhabituel Axe
-item.mmorpg:axe/axe2.name=§eHache Rare Axe
-item.mmorpg:axe/axe3.name=§9Hache Epique Axe
-item.mmorpg:axe/axe4.name=§6Hache Légendaire Axe
-item.mmorpg:axe/axe5.name=§dHache Mythique Axe
+item.mmorpg:axe/axe1.name=§aHache Inhabituel 
+item.mmorpg:axe/axe2.name=§eHache Rare 
+item.mmorpg:axe/axe3.name=§9Hache Epique 
+item.mmorpg:axe/axe4.name=§6Hache Légendaire 
+item.mmorpg:axe/axe5.name=§dHache Mythique 
 item.mmorpg:boots/boots0.name=§7Bottes Communes
 item.mmorpg:boots/boots1.name=§aBottes Inhabituelles
 item.mmorpg:boots/boots2.name=§eBottes Rares
