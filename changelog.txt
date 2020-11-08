@@ -1,0 +1,12 @@
+1.9.2
+- Fixes the Stone of Hope.
+- Fixes the old overlays not having the level.
+- Fixes the reverse logic of weather or not mobs should burn. SHOULD_MOBS_BURN moved to SHOULD_MOBS_NOT_BURN with more info in the tooltip.
+1.9.1
+- Fixes all commands to work in Command blocks.
+- Added a config option to allow mob burning during the day time.
+- Fixes runeword Ghost requiring 2 XAH runes. 
+- Hopefully fixes mobs disappearing if hit with an arrow from a sheild.
+- Reworked some Baubles code, just under the hood things.
+1.9.0
+- Restores the old Overlays as configurable options again. The new one is still the default but you can now change it again.Top_Left, Bottom_Middle, Bottom_Middle_Corners, Middle, Azure_Top_Left

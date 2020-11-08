@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CCC",
+    "CAC",
+    "TTT"
+  ],
+  "key": {  
+	"A": {
+      "item": "minecraft:gold_ingot"
+    }, 
+	"C": {
+      "item": "minecraft:iron_ingot"
+    }, 
+	"T": {
+      "item": "mmorpg:ore0"
+    }
+  },
+  "result": {
+    "item": "mmorpg:player_levelup"
+  }
+}

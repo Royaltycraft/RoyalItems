@@ -1,0 +1,27 @@
+# eclipse
+bin
+*.launch
+.settings
+.metadata
+.classpath
+.project
+
+# idea
+out
+*.ipr
+*.iws
+*.iml
+.idea
+
+gradle
+build
+.gradle
+
+# other
+eclipse
+run
+gradlew
+src/main/resources/assets/mmorpg/textures/items/paid_assets
+src/main/resources/assets/mmorpg/textures/items/PAID_ASSETS
+src/main/resources/assets/mmorpg/textures/items/paidassets
+src/main/resources/assets/mmorpg/textures/items/PAIDASSETS
